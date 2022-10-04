@@ -1,0 +1,15 @@
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\bin\Debug\net6.0\CompatitiveCodingProblems.exe
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\bin\Debug\net6.0\CompatitiveCodingProblems.deps.json
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\bin\Debug\net6.0\CompatitiveCodingProblems.runtimeconfig.json
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\bin\Debug\net6.0\CompatitiveCodingProblems.dll
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\bin\Debug\net6.0\CompatitiveCodingProblems.pdb
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.csproj.AssemblyReference.cache
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.AssemblyInfoInputs.cache
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.AssemblyInfo.cs
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.csproj.CoreCompileInputs.cache
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.dll
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\refint\CompatitiveCodingProblems.dll
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.pdb
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\CompatitiveCodingProblems.genruntimeconfig.cache
+C:\codingpractice\CodingPracticeInCSharp\CompatitiveCodingProblems\obj\Debug\net6.0\ref\CompatitiveCodingProblems.dll
