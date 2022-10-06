@@ -10,6 +10,7 @@
                 Console.WriteLine("Enter the option :");
 
                 Console.WriteLine("9. Palindrome Number");
+                Console.WriteLine("13. Roman to Integer");
 
                 Console.WriteLine("0. Quit");
 
@@ -24,6 +25,10 @@
                 {
                     case 9:
                         problem = new PalindromeNumber();
+                        break;
+
+                    case 13:
+                        problem = new RomanToInteger();
                         break;
 
                     case 0: return;
