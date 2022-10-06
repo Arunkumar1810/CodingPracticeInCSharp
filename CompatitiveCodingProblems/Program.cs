@@ -11,6 +11,7 @@
 
                 Console.WriteLine("9. Palindrome Number");
                 Console.WriteLine("13. Roman to Integer");
+                Console.WriteLine("14. Longest Common Prefix");
 
                 Console.WriteLine("0. Quit");
 
@@ -29,6 +30,10 @@
 
                     case 13:
                         problem = new RomanToInteger();
+                        break;
+
+                    case 14:
+                        problem = new LongestCommonPrefix();
                         break;
 
                     case 0: return;
